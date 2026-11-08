@@ -1,5 +1,23 @@
 # TaziPay: Planned Stellar Integrations
 
+## About TaziPay
+
+TaziPay is a live crypto-to-cash app for Africa, on web, iOS and Android. Users deposit crypto and receive local currency, paid straight to their bank account or mobile money.
+
+|                        |                                                                                    |
+| ---------------------- | ---------------------------------------------------------------------------------- |
+| **Website**            | [tazipay.com](https://tazipay.com)                                                 |
+| **On-chain dashboard** | [dune.com/ouvinte5685/tazipay](https://dune.com/ouvinte5685/tazipay)               |
+| **Supported deposits** | USDT, USDC, BTC, ETH and BNB on Bitcoin, Tron, Ethereum, Avalanche, BSC and Solana |
+| **Payouts**            | NGN by bank transfer; KES through M-Pesa, Till and Paybill                         |
+| **Volume processed**   | $715K+                                                                             |
+
+The Dune dashboard tracks TaziPay's collection addresses across EVM chains, Tron and Bitcoin, with stablecoin inflows, daily net flow and a cross-chain summary.
+
+The integrations below add a Stellar settlement, cash-out and savings layer under the existing app. Every deposit ends up as native USDC on Stellar, which users can then cash out through MoneyGram or save in a DeFindex vault.
+
+## Planned integrations
+
 > **Status:** planned. These integrations are built and tested on Stellar **testnet** first, then launched on **mainnet**.
 
 | Integration                  | Role in TaziPay                                                    | Standards / interfaces                                            |
